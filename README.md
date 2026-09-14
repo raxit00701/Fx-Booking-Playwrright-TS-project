@@ -1,1 +1,1 @@
-# Fx-Ecom-Playwrright-TS-project
+# Fx-Booking-Playwrright-TS-project
