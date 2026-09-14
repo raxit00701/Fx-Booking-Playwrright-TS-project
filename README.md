@@ -522,6 +522,6 @@ Copyright © 2026 Raxit Sharma
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=130&section=footer&text=✦%20%20%20%20✧%20%20%20%20✦%20%20%20%20⋆%20%20%20%20✧%20%20%20%20✦%20%20%20%20⋆%20%20%20%20✧%20%20%20%20✦&fontSize=18&fontColor=FFFFFF&fontAlignY=75&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,16:FF7F00,33:FFFF00,50:00FF00,66:00FFFF,83:0066FF,100:8B00FF&height=130&section=footer&text=✦%20%20%20%20✧%20%20%20%20✦%20%20%20%20⋆%20%20%20%20✧%20%20%20%20✦%20%20%20%20⋆%20%20%20%20✧%20%20%20%20✦&fontSize=18&fontColor=FFFFFF&fontAlignY=75&animation=fadeIn" width="100%"/>
 
 </div>
