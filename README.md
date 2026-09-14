@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,30:2D0000,65:8B0000,100:FF4444&height=250&section=header&text=FX%20BOOKING%20PLAYWRIGHT%20TS&fontSize=48&fontColor=FFFFFF&fontAlignY=38&fontAlign=50&desc=★%20%20End-to-End%20Booking%20Automation%20%7C%20Playwright%20%7C%20TypeScript%20%20★&descAlignY=62&descSize=16&descColor=FFD7D7&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,20:FF7F00,40:FFFF00,60:00FF00,75:00BFFF,90:4B0082,100:8B00FF&height=250&section=header&text=FX%20BOOKING%20PLAYWRIGHT%20TS&fontSize=48&fontColor=FFFFFF&fontAlignY=38&fontAlign=50&desc=★%20%20End-to-End%20Booking%20Automation%20%7C%20Playwright%20%7C%20TypeScript%20%20★&descAlignY=62&descSize=16&descColor=FFFFFF&animation=fadeIn" width="100%"/>
 
 <br/>
 
