@@ -1,24 +1,23 @@
-# Fx-Booking-Playwrright-TS-project
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,30:2D0000,65:8B0000,100:FF4444&height=250&section=header&text=FX%20BOOKING%20PLAYWRIGHT%20TS&fontSize=48&fontColor=FFFFFF&fontAlignY=38&fontAlign=50&desc=★%20%20End-to-End%20Booking%20Automation%20%7C%20Playwright%20%7C%20TypeScript%20%20★&descAlignY=62&descSize=16&descColor=FFD7D7&animation=fadeIn" width="100%"/>
 
 <br/>
 
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![dotenv](https://img.shields.io/badge/dotenv-ECD53F?style=for-the-badge&logo=dotenv&logoColor=black)
-![Status](https://img.shields.io/badge/Status-BATTLE__TESTED-DC143C?style=for-the-badge)
-![License](https://img.shields.io/badge/License-All%20Rights%20Reserved-8B0000?style=for-the-badge)
+![Playwright](https://img.shields.io/badge/Playwright-FF4444?style=for-the-badge&logo=playwright&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-FF8800?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-BBAA00?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![dotenv](https://img.shields.io/badge/dotenv-22AA44?style=for-the-badge&logo=dotenv&logoColor=white)
+![Status](https://img.shields.io/badge/Status-BATTLE__TESTED-2277DD?style=for-the-badge)
+![License](https://img.shields.io/badge/License-All%20Rights%20Reserved-7744CC?style=for-the-badge)
 
 <br/>
 
-![Tests](https://img.shields.io/badge/Tests-PASSING-brightgreen?style=flat-square)
-![Quality](https://img.shields.io/badge/Code%20Quality-IMMACULATE-gold?style=flat-square)
-![Bugs](https://img.shields.io/badge/Bugs-ANNIHILATED-DC143C?style=flat-square)
-![Assertions](https://img.shields.io/badge/Assertions-MERCILESS-8B0000?style=flat-square)
-![CSV](https://img.shields.io/badge/CSV%20Report-GENERATED-crimson?style=flat-square)
+![Tests](https://img.shields.io/badge/Tests-PASSING-FF9999?style=flat-square)
+![Quality](https://img.shields.io/badge/Code%20Quality-IMMACULATE-FF7777?style=flat-square)
+![Bugs](https://img.shields.io/badge/Bugs-ANNIHILATED-FF5555?style=flat-square)
+![Assertions](https://img.shields.io/badge/Assertions-MERCILESS-E03535?style=flat-square)
+![CSV](https://img.shields.io/badge/CSV%20Report-GENERATED-C01E1E?style=flat-square)
 
 <br/><br/>
 
